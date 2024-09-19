@@ -6,17 +6,17 @@ A simple API to convert numbers from and to differnt number system.
 First you need to Star and Fork this repository.<br>
 Then choose the mode of deployment you want from this two:
 # Run Localy
-1. Download this code as zip or using git
+1. Download this code as zip or using git <br>
 ```git clone https://github.com/NotoriousBigg/NumberSystemsAPI.git ```
-2. Open the folder where you have cloned it.
+2. Open the folder where you have cloned it.<br>
  ``` cd NumberSystemsAPI```
-3. Now run the main.py file.
+3. Now run the main.py file.<br>
  ```pip3 install flask```
  ```python3 main.py```
->> Access it through any browser at:
+>> Access it through any browser at:<br>
 >> ```http://127.0.0.1:8080/```
 
->> To convert data:
+>> To convert data:<br>
 >> ```/convert?data={your_value_here}&from={original_number_system}&to={new_number_system}```
 
 # Deploy To Vercel
@@ -30,6 +30,7 @@ Follow this steps:
 
 For Assistance :
 
-Hmu on (Telegram)[https://t.me/RealOptimusPrimeBot]
+Hmu on Telegram
+[Telegram](https://t.me/RealOptimusPrimeBot)
 
 This is a school assisgnment
